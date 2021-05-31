@@ -1,0 +1,6 @@
+C:\Users\91959\source\repos\ThreeTierBest\BusinessObject\bin\Debug\BusinessObject.dll
+C:\Users\91959\source\repos\ThreeTierBest\BusinessObject\bin\Debug\BusinessObject.pdb
+C:\Users\91959\source\repos\ThreeTierBest\BusinessObject\obj\Debug\BusinessObject.csprojAssemblyReference.cache
+C:\Users\91959\source\repos\ThreeTierBest\BusinessObject\obj\Debug\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\91959\source\repos\ThreeTierBest\BusinessObject\obj\Debug\BusinessObject.dll
+C:\Users\91959\source\repos\ThreeTierBest\BusinessObject\obj\Debug\BusinessObject.pdb
